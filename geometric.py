@@ -1,0 +1,1 @@
+print ('inicio calculo geomtrico euclides brabo')
