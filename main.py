@@ -1,0 +1,1 @@
+print('marcelinha tá puta que nao usa notion')
